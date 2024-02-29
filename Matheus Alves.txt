@@ -44,7 +44,7 @@ echo Canada >> Viagem.txt
 echo Argentinaa >> Viagem.txt
 echo Austr lia >> Viagem.txt
 cd ..
-dir
+tree /f
 cd Documentos
 dir
 doskey /history >> Matheus A.txt
